@@ -1,0 +1,14 @@
+{
+  "name": "mongo-replica-nodeapp",
+  "version": "1.0.0",
+  "description": "Simple Node.js app to connect to MongoDB replica set",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.30.1",
+    "mongodb": "^4.5.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
